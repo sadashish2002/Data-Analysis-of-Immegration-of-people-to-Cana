@@ -1,4 +1,4 @@
-# Data-Analysis-of-Immegration-of-people-to-Canada
+# Data-Visualization-of-Immegration-of-people-to-Canada-using-Area Plots_Histograms_Bar Plots
 The dataset contain Immegration of people from all over the world to Cananda (1980-2013).
 
 Toolkits: The course heavily relies on pandas and Numpy for data wrangling, analysis, and visualization. The primary plotting library that we are exploring in the course is Matplotlib.
